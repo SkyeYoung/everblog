@@ -1,0 +1,7 @@
+{
+  "name": "EverBlog",
+  "version": "0.2.1",
+  "config": {
+	        "posts_per_page": 99
+  }  
+}
